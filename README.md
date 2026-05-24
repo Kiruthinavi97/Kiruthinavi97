@@ -1,3 +1,7 @@
+<img width="1024" height="680" alt="image" src="https://github.com/user-attachments/assets/fbacf917-936c-410a-9422-2655d8f80d4d" />
+
+
+
 <h1 align="center">Hi 👋, I'm Kiruthika Naveen</h1>
 <h3 align="center">I'm a passionate System Engineer. I love working with creative, efficient and deployable web application and exploring new ways to solve problems.</h3>
 
